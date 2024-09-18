@@ -13,4 +13,7 @@ function chauchat(municion) {
     }
     console.log(disparosTotales);
 }
+//Pruebas
+chauchat(cargador);
+chauchat(cargador);
 chauchat(cargador);
